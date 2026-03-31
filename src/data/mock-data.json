@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    { "id": 1, "title": "Frontend Developer", "company": "Tech Corp", "location": "Remote", "type": "Remote", "salary": 60000, "skills": ["React", "JavaScript"] },
+    { "id": 2, "title": "Backend Developer", "company": "Code Ltd", "location": "Hybrid", "type": "Hybrid", "salary": 80000, "skills": ["Node", "API"] },
+    { "id": 3, "title": "Full Stack Developer", "company": "DevWorks", "location": "Remote", "type": "Remote", "salary": 90000, "skills": ["React", "Node"] },
+    { "id": 4, "title": "UI Designer", "company": "Creative Inc", "location": "Onsite", "type": "Onsite", "salary": 50000, "skills": ["Figma"] },
+    { "id": 5, "title": "QA Engineer", "company": "Testify", "location": "Hybrid", "type": "Hybrid", "salary": 55000, "skills": ["Testing"] },
+    { "id": 6, "title": "DevOps Engineer", "company": "CloudNet", "location": "Remote", "type": "Remote", "salary": 95000, "skills": ["AWS"] },
+    { "id": 7, "title": "Mobile Developer", "company": "Appify", "location": "Remote", "type": "Remote", "salary": 70000, "skills": ["React Native"] },
+    { "id": 8, "title": "Data Analyst", "company": "Data Corp", "location": "Hybrid", "type": "Hybrid", "salary": 65000, "skills": ["SQL"] },
+    { "id": 9, "title": "Product Manager", "company": "InnovateX", "location": "Onsite", "type": "Onsite", "salary": 100000, "skills": ["Management"] },
+    { "id": 10, "title": "System Engineer", "company": "InfraTech", "location": "Remote", "type": "Remote", "salary": 72000, "skills": ["Linux"] },
+    { "id": 11, "title": "Software Engineer", "company": "BuildSoft", "location": "Hybrid", "type": "Hybrid", "salary": 85000, "skills": ["Java"] },
+    { "id": 12, "title": "Cloud Engineer", "company": "SkyNet", "location": "Remote", "type": "Remote", "salary": 92000, "skills": ["AWS"] },
+    { "id": 13, "title": "Security Analyst", "company": "SecureIT", "location": "Onsite", "type": "Onsite", "salary": 78000, "skills": ["Cybersecurity"] },
+    { "id": 14, "title": "AI Engineer", "company": "BrainTech", "location": "Remote", "type": "Remote", "salary": 110000, "skills": ["ML"] },
+    { "id": 15, "title": "Database Admin", "company": "DataSys", "location": "Hybrid", "type": "Hybrid", "salary": 68000, "skills": ["SQL"] },
+    { "id": 16, "title": "Web Developer", "company": "Webify", "location": "Remote", "type": "Remote", "salary": 62000, "skills": ["HTML", "CSS"] },
+    { "id": 17, "title": "Game Developer", "company": "FunGames", "location": "Onsite", "type": "Onsite", "salary": 87000, "skills": ["Unity"] },
+    { "id": 18, "title": "Support Engineer", "company": "HelpDesk", "location": "Hybrid", "type": "Hybrid", "salary": 50000, "skills": ["Support"] },
+    { "id": 19, "title": "Network Engineer", "company": "NetTech", "location": "Remote", "type": "Remote", "salary": 76000, "skills": ["Networking"] },
+    { "id": 20, "title": "Blockchain Developer", "company": "CryptoTech", "location": "Remote", "type": "Remote", "salary": 120000, "skills": ["Blockchain"] }
+  ]
+}
